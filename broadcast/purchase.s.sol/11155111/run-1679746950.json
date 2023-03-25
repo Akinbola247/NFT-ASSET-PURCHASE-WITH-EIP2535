@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "hash": "0xc8d4977cf4eeeb87df4bc21b87ba70699250ff0e8c2de3647e56b9ec865ae380",
+      "transactionType": "CREATE",
+      "contractName": "DiamondInit",
+      "contractAddress": "0x3593dfd4Ea11d0b10ec7C823beAf76A3937CD756",
+      "function": null,
+      "arguments": null,
+      "rpc": "https://eth-sepolia.g.alchemy.com/v2/5ShvcS43c_Wrsfk_jTMZOU0sXXBKaVXP",
+      "transaction": {
+        "type": "0x02",
+        "from": "0x9b69f998b2a2b20ff54a575bd5fb90a5d71656c1",
+        "gas": "0x2784a",
+        "value": "0x0",
+        "data": "0x608060405234801561001057600080fd5b50610149806100206000396000f3fe608060405234801561001057600080fd5b506004361061002b5760003560e01c8063e1c7392a14610030575b600080fd5b6101117fc8fcad8db84d3cc18b4c41d551ea0ee66dd599cde068d998e57d5e09332c131f6020527f699d9daa71b280d05a152715774afa0a81a312594b2d731d6b0b2552b7d6f69f8054600160ff1991821681179092557ff97e938d8af42f52387bb74b8b526fda8f184cc2aa534340a8d75a88fbecc77580548216831790557f65d510a5d8f7ef134ec444f7f34ee808c8eeb5177cdfd16be0c40fe1ab43369580548216831790556307f5828d60e41b6000527f5622121b47b8cd0120c4efe45dd5483242f54a3d49bd7679be565d47694918c380549091169091179055565b00fea264697066735822122030d13609536de9dcbb9dc564c2dfcf398bda318cd0f1b996aef6997d6b1c340364736f6c63430008110033",
+        "nonce": "0x1f",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0xc8d4977cf4eeeb87df4bc21b87ba70699250ff0e8c2de3647e56b9ec865ae380"
+  ],
+  "path": "/Users/kenzman/Desktop/code/Solidity/Diamond Standard/Purchase-diamond/PurchaseAsset-Foundry-Hardhat-Diamonds/broadcast/purchase.s.sol/11155111/run-latest.json",
+  "returns": {},
+  "timestamp": 1679746950,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "3000fca"
+}
